@@ -1,0 +1,23 @@
+# Dependências / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Segredos (NÃO fazer commit da chave pessoal da API)
+secrets.py
+
+# Dados locais (snapshot da API gerado em runtime)
+data/snapshot.json
+
+# IDE / SO
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+""" Sem dependências externas: o projeto utiliza unicamente a
+biblioteca padrão do Python 3 (urllib, json, argparse, dataclasses). """
