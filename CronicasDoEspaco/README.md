@@ -1,4 +1,4 @@
-# Crónicas do Espaço
+# Crônicas do Espaço
 
 Sistema em **Python** que usa a API *Solar System openData* para montar um
 catálogo do Sistema Solar com os 554 corpos celestes (planetas, luas,
